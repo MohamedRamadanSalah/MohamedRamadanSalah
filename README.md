@@ -9,7 +9,7 @@
 
 ## 🚀 My Projects
 - [Emoji App](https://github.com/MohamedRamadanSalah/Emojy-App)
-- [Lawyer Case Manager](رابط الريبو)
+- [Lawyer Case Manager](https://lnkd.in/g4uNBHTW)
 
 ## 📊 GitHub Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRamadanSalah&show_icons=true&theme=radical)
