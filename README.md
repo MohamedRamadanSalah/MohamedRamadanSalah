@@ -5,7 +5,7 @@
 💡 Skilled in Java, XML, SQLite, RecyclerView, Fragments  
 🌱 Currently learning: Firebase & Flutter  
 📚 2nd year student @ Faculty of Computers and Information  
-📬 How to reach me: mohamed.yourmail@gmail.com
+📬 How to reach me: mhmdrmdanslahslah3@gmail.com
 
 ## 🚀 My Projects
 - [Emoji App](https://github.com/MohamedRamadanSalah/Emojy-App)
