@@ -54,13 +54,6 @@ I care about clean architecture, tested behavior, and replacing manual workflows
 | [**AREEN Investment**](https://github.com/MohamedRamadanSalah/areen) | Pixel-faithful investor landing page with motion design. | Next.js 15 · React 19 · Tailwind 4 · Framer Motion |
 | [**Tennis Swing Analyzer**](https://github.com/MohamedRamadanSalah/tennis_project) | Turns a phone into a virtual racket: reads the accelerometer and gyroscope live to compute swing force, rotation and peaks. | Flutter · BLoC · sensors_plus |
 
-### 📈 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedRamadanSalah&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRamadanSalah&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
-</p>
-
 ### 🌱 Currently
 
 - Shipping a production multi-platform product: .NET backend, web frontend and Flutter mobile app
