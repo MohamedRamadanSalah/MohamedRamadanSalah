@@ -42,7 +42,7 @@ I care about clean architecture, tested behavior, and replacing manual workflows
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -54,7 +54,7 @@ I care about clean architecture, tested behavior, and replacing manual workflows
 | [**AREEN Investment**](https://github.com/MohamedRamadanSalah/areen) | Pixel-faithful investor landing page with motion design. | Next.js 15 · React 19 · Tailwind 4 · Framer Motion |
 | [**Tennis Swing Analyzer**](https://github.com/MohamedRamadanSalah/tennis_project) | Turns a phone into a virtual racket: reads the accelerometer and gyroscope live to compute swing force, rotation and peaks. | Flutter · BLoC · sensors_plus |
 
-### 🌱 Currently
+### Currently
 
 - Shipping a production multi-platform product: .NET backend, web frontend and Flutter mobile app
 - Building AI-assisted engineering workflows that turn bug fixing into an evidence-based process
