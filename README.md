@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:mhmdrmdanslahslah3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/MohamedRamadanSalah?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
 ---
@@ -54,8 +55,20 @@ I care about clean architecture, tested behavior, and replacing manual workflows
 | [**AREEN Investment**](https://github.com/MohamedRamadanSalah/areen) | Pixel-faithful investor landing page with motion design. | Next.js 15 · React 19 · Tailwind 4 · Framer Motion |
 | [**Tennis Swing Analyzer**](https://github.com/MohamedRamadanSalah/tennis_project) | Turns a phone into a virtual racket: reads the accelerometer and gyroscope live to compute swing force, rotation and peaks. | Flutter · BLoC · sensors_plus |
 
+### 🤖 Open-Source AI Engineering Tools
+
+Skills and tooling for [Claude Code](https://claude.com/claude-code) that make AI-assisted engineering **verifiable**: every tool proves its output with validators, tests or evidence instead of trusting the model.
+
+| Tool | What it does | Built with |
+|---|---|---|
+| [**Brutal Code Review**](https://github.com/MohamedRamadanSalah/brutal-code-review) | Evidence-first code, logic and architecture review for .NET and Flutter. Every finding is pinned to `file:line` with a concrete failure scenario, repeat mistakes are tracked in a ledger, and graded evals are included. | Claude Code skill · .NET · Flutter |
+| [**AI Technical Interviewer**](https://github.com/MohamedRamadanSalah/ai-technical-interviewer) | Builds research-backed interview kits, then runs strict, unbiased, scored interviews with live coding and measured behavioral metrics. | Claude Code skills |
+| [**presentation-ai**](https://github.com/MohamedRamadanSalah/presentation-ai) | Markdown to designed, animated, editable PowerPoint, with native Mermaid diagrams, Arabic RTL layouts and automated layout QA. 100+ tests. | Python · python-pptx · Pydantic |
+| [**md-to-pdf (verified)**](https://github.com/MohamedRamadanSalah/md-to-pdf-verified) | Markdown to print-ready PDF with allowlist answer-key redaction and a read-back pass that proves nothing was dropped or leaked. | Python · Playwright · Mermaid |
+| [**Claude QA Toolkit**](https://github.com/MohamedRamadanSalah/claude-qa-toolkit) | Nine QA skills (test cases, bug reports, API, mobile and automation testing), each backed by validator scripts. | Claude Code skills · Python |
+
 ### Currently
 
 - Shipping a production multi-platform product: .NET backend, web frontend and Flutter mobile app
-- Building AI-assisted engineering workflows that turn bug fixing into an evidence-based process
+- Building AI-assisted engineering workflows that turn bug fixing, code review, QA and hiring into evidence-based processes
 - Going deeper on software architecture and scalable backend systems
