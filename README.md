@@ -20,6 +20,8 @@ I care about clean architecture, tested behavior, and replacing manual workflows
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 **Backend**&nbsp;
@@ -66,6 +68,15 @@ Skills and tooling for [Claude Code](https://claude.com/claude-code) that make A
 | [**presentation-ai**](https://github.com/MohamedRamadanSalah/presentation-ai) | Markdown to designed, animated, editable PowerPoint, with native Mermaid diagrams, Arabic RTL layouts and automated layout QA. 100+ tests. | Python · python-pptx · Pydantic |
 | [**md-to-pdf (verified)**](https://github.com/MohamedRamadanSalah/md-to-pdf-verified) | Markdown to print-ready PDF with allowlist answer-key redaction and a read-back pass that proves nothing was dropped or leaked. | Python · Playwright · Mermaid |
 | [**Claude QA Toolkit**](https://github.com/MohamedRamadanSalah/claude-qa-toolkit) | Nine QA skills (test cases, bug reports, API, mobile and automation testing), each backed by validator scripts. | Claude Code skills · Python |
+
+### 📱 Native Android (Java)
+
+| App | What it does | Built with |
+|---|---|---|
+| [**Travel Booking**](https://github.com/MohamedRamadanSalah/travel-booking-android) | Browse destinations by category, popular and recommended places, place details and ticket booking, with login and sign-up. | Java · Firebase Realtime Database · RecyclerView · Material |
+| [**Coffee Shop**](https://github.com/MohamedRamadanSalah/coffee-shop-android) | Menu explorer, item details with size selection, cart with live totals, favourites and order history. | Java · Firebase Realtime Database · SharedPreferences |
+| [**Lawsuit Tracker**](https://github.com/MohamedRamadanSalah/lawsuit-tracker-android) | Offline case manager: case list, swipeable details, and add/edit/delete dialogs. | Java · SQLite · Fragments · ViewPager |
+| [**Emoji Gallery**](https://github.com/MohamedRamadanSalah/emoji-gallery-android) | Immersive full-screen emoji grid with detail screens. | Java · RecyclerView |
 
 ### Currently
 
