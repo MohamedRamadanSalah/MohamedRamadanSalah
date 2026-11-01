@@ -14,7 +14,7 @@
 I build production software end to end: **mobile apps in Flutter**, **backend APIs in .NET and Node.js**, **web apps in Next.js**, and lately **AI agent tooling** that makes engineering work more reliable.
 I care about clean architecture, tested behavior, and replacing manual workflows with software that people actually use.
 
-### 🔧 Tech Stack
+### Tech Stack
 
 **Mobile**&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
